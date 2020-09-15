@@ -2,9 +2,41 @@
   "transactions": [
     {
       "id": "3cd38ab1-678e-48b3-af4b-b45736acecc6",
+      "request_datetime": "2020-06-24T14:06:38.849492Z",
       "worker_id": "965239557d76",
       "number_start": "4312",
-      "initiating_operator_id": "104"
+      "number_end": "4120",
+      "type": "DELETE_ECSP",
+      "subsequent_type": null,
+      "category": "NETWORK_SETUP",
+      "status": "REJECTED_VALIDATION",
+      "expiration_datetime": null,
+      "dh": null,
+      "ecspa": null,
+      "noa": null,
+      "ecspd": null,
+      "nod": null,
+      "ecspr": null,
+      "nor": null,
+      "result": {
+        "args": [
+          "4312-4120: The given start is higher than the given end number."
+        ],
+        "exception": "An exception of type InvalidOrderException occurred."
+      },
+      "initiating_operator_id": "104",
+      "referenced_transaction_id": null,
+      "time_window_start": null,
+      "time_window_end": null,
+      "tariff": null,
+      "link": null,
+      "note": null,
+      "reason": null,
+      "active": null,
+      "date_reported": null,
+      "csp": null,
+      "port_backward_datetime": null,
+      "implementation_datetime": null
     }
   ]
 }
