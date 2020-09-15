@@ -2,11 +2,5 @@
   "id": "3cd38ab1-678e-48b3-af4b-b45736acecc6",
   "worker_id": "965239557d76",
   "number_start": "4312",
-  "result": {
-    "args": [
-      "4312-4120: The given start is higher than the given end number."
-    ],
-    "exception": "An exception of type InvalidOrderException occurred."
-  },
   "initiating_operator_id": "104"
 }
