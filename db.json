@@ -1,4 +1,10 @@
 {
+  "other": [
+    {
+      "name": "test",
+      "id": "3cd38ab1-678e-48b3-af4b-b45736acecc0"
+    }
+  ],
   "transactions": [
     {
       "id": "3cd38ab1-678e-48b3-af4b-b45736acecc0",
